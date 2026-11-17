@@ -162,3 +162,4 @@ def delete_deployment(deployment_id: str):
         "deployment_id": deployment_id,
         "application": deleted_deployment["application"]
     }
+def broken_function(
